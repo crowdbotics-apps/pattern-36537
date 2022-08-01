@@ -56,7 +56,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-appointment-calendar-view](screens/appointment-calendar)
-- [screen-account-settings](screens/account-settings)
 - [screen-management-kanban](screens/management-kanban)
 - [screen-reserve-seat](screens/reserve-seat)
 
