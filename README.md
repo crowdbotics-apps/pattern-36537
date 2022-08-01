@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-activity-feed](screens/activity-feed)
 - [screen-account-settings](screens/account-settings)
 - [screen-management-kanban](screens/management-kanban)
+- [screen-reserve-seat](screens/reserve-seat)
 
 # Getting started: Frontend
 

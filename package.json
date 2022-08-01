@@ -20,6 +20,7 @@
     "@screens/activity-feed": "file:./screens/activity-feed/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/management-kanban": "file:./screens/management-kanban/",
+    "@screens/reserve-seat": "file:./screens/reserve-seat/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",

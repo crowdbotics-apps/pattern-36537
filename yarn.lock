@@ -1220,7 +1220,10 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
-"@screens/management-kanban@file:./screens/management-kanban/":
+"@screens/management-kanban@file:./screens/management-kanban":
+  version "1.0.0"
+
+"@screens/reserve-seat@file:./screens/reserve-seat/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
