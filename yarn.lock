@@ -1214,10 +1214,7 @@
 "@screens/barcode-scanner@file:./screens/barcode-scanner":
   version "1.0.0"
 
-"@screens/management-kanban@file:./screens/management-kanban":
-  version "1.0.0"
-
-"@screens/voice-memos@file:./screens/voice-memos/":
+"@screens/voice-memos@file:./screens/voice-memos":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
