@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-calendar-view](screens/appointment-calendar)
 - [screen-activity-feed](screens/activity-feed)
 - [screen-account-settings](screens/account-settings)
+- [screen-management-kanban](screens/management-kanban)
 
 # Getting started: Frontend
 
